@@ -1,1 +1,2 @@
-hello world
+hello world 2.0
+this is a proof of concept using git modules for a monorepo
