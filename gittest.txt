@@ -1,1 +1,1 @@
-SUBMODULE LOCAL CHANGE xx
+second test of submodule pushing updates upstream
